@@ -1,0 +1,23 @@
+{
+  "guild-id": "1057800459286483105",
+  "token": "MTE1NTk1NTQ0MDUyNjU2MTQwMw.GEZ_SN.EGtMCAaKJ0iOX4QjU1ZK4627CQLrbFrjKbWW2s",
+  "premium-role-id": "1155960474064666705",
+  "premium-cooldown": false,
+  "premium-cooldown-duration": 3,
+  "cooldown-duration": 10,
+  "admin-cooldown": true,
+  "logs-switch": true,
+  "logs-channel-id": "1057800459810775173",
+  "channel-specific-switch": true,
+  "premium-gen-channels": ["1057800459810775173"],
+  "free-gen-channels": ["1057800459810775173"],
+  "messages": {
+    "not-supported-channel": "This channel is not supported",
+    "account-generated": "Generated account has been sent to your DMs",
+    "service-doesnt-exist": "Service doesn't exist or you typed it incorrectly",
+    "stock-description": "All accounts available.",
+    "stock-empty-description": "Account stock is empty",
+    "no-permissions": "You don't have access to this command.",
+    "embed-footer": "exovanguard.com"
+  }
+}
